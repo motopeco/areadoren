@@ -2,11 +2,16 @@
 title: 年表
 description: 
 published: true
-date: 2021-08-03T05:35:18.902Z
+date: 2021-08-03T06:14:20.816Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-03T05:34:58.762Z
 ---
 
-# Header
-Your content here
+# 年表
+## 原始の時代
+
+精霊歴  | 出来事 | 概要 |
+| ------------ | :-----------: | -----------: |
+| 0 | 無の世界に最初の精霊が降り立つ。 |  |
+| 0 春 | 無の世界に最初の精霊が降り立つ。 |  |
